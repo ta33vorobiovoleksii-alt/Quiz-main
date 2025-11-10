@@ -1,7 +1,7 @@
 ﻿namespace Quiz
 {
 
-        public class QuizGame
+        public class QuizGame1
     {
         
             public int Score { get; private set; }
